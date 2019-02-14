@@ -1,0 +1,45 @@
+PODS:
+  - AFNetworking (3.2.1):
+    - AFNetworking/NSURLSession (= 3.2.1)
+    - AFNetworking/Reachability (= 3.2.1)
+    - AFNetworking/Security (= 3.2.1)
+    - AFNetworking/Serialization (= 3.2.1)
+    - AFNetworking/UIKit (= 3.2.1)
+  - AFNetworking/NSURLSession (3.2.1):
+    - AFNetworking/Reachability
+    - AFNetworking/Security
+    - AFNetworking/Serialization
+  - AFNetworking/Reachability (3.2.1)
+  - AFNetworking/Security (3.2.1)
+  - AFNetworking/Serialization (3.2.1)
+  - AFNetworking/UIKit (3.2.1):
+    - AFNetworking/NSURLSession
+  - Kiwi (3.0.0)
+  - Reachability (3.2)
+  - XKHttpNetworkHelper (0.1.0):
+    - AFNetworking
+    - Reachability
+
+DEPENDENCIES:
+  - Kiwi
+  - XKHttpNetworkHelper (from `../`)
+
+SPEC REPOS:
+  https://github.com/cocoapods/specs.git:
+    - AFNetworking
+    - Kiwi
+    - Reachability
+
+EXTERNAL SOURCES:
+  XKHttpNetworkHelper:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  AFNetworking: b6f891fdfaed196b46c7a83cf209e09697b94057
+  Kiwi: fbeafef0f00e4d8f7dcb3420a4930afe70af77f7
+  Reachability: 33e18b67625424e47b6cde6d202dce689ad7af96
+  XKHttpNetworkHelper: 8bfe18f9f12f35041786767e3e2c24bedc3d425a
+
+PODFILE CHECKSUM: 9af9b236bd676d6ab063cc75e27dba19dd8dcd58
+
+COCOAPODS: 1.6.0
