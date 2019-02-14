@@ -32,9 +32,9 @@ TODO: Add long description of the pod here.
 
   s.source_files = 'XKHttpNetworkHelper/Classes/**/*'
   
- # s.resource_bundles = {
- #    'XKHttpNetworkHelper' => ['XKHttpNetworkHelper/Assets/*.png']
- #  }
+  s.resource_bundles = {
+     'XKHttpNetworkHelper' => ['XKHttpNetworkHelper/Assets/*.png']
+   }
 
   s.public_header_files = 'XKHttpNetworkHelper/Classes/**/*.h'
   # s.frameworks = 'UIKit', 'MapKit'
