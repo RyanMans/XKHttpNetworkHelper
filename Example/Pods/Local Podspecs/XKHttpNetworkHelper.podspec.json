@@ -19,12 +19,7 @@
     "ios": "8.0"
   },
   "source_files": "XKHttpNetworkHelper/Classes/**/*",
-  "resource_bundles": {
-    "XKHttpNetworkHelper": [
-      "XKHttpNetworkHelper/Assets/*.png"
-    ]
-  },
-  "public_header_files": "Pod/Classes/**/*.h",
+  "public_header_files": "XKHttpNetworkHelper/Classes/**/*.h",
   "dependencies": {
     "AFNetworking": [
 

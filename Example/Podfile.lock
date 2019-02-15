@@ -38,7 +38,7 @@ SPEC CHECKSUMS:
   AFNetworking: b6f891fdfaed196b46c7a83cf209e09697b94057
   Kiwi: fbeafef0f00e4d8f7dcb3420a4930afe70af77f7
   Reachability: 33e18b67625424e47b6cde6d202dce689ad7af96
-  XKHttpNetworkHelper: 8bfe18f9f12f35041786767e3e2c24bedc3d425a
+  XKHttpNetworkHelper: ab6e951780dced61dc4fba1b1b87bcd1e307fe45
 
 PODFILE CHECKSUM: 9af9b236bd676d6ab063cc75e27dba19dd8dcd58
 
